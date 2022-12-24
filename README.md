@@ -17,5 +17,5 @@ It is used to add the index.html file to github
 we can simply do
 
 ## git add .
-This will add all the files and folder that is being created by the github
+This will add all the files and folder that is being created in the local directory to the github
 
