@@ -1,6 +1,12 @@
 # GIT KEYWORDS
 I am learning the github here....
 
+## Git and Github
+
+Github is an website with a UI
+Git handle all the version control stuff like commiting,pulling,pushing etc. we can use git without help of github also
+
+
 ## git clone - use to  download the git repo folder from github to local machine
 git clone the folder link in github
 git clone https://github.com/praveen-kanth1802/masterminds.git
