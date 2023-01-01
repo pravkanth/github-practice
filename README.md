@@ -25,3 +25,4 @@ we can simply do
 ## git add .
 This will add all the files and folder that is being created in the local directory to the github
 
+ICON CDN -     <script src="https://kit.fontawesome.com/c557578716.js" crossorigin="anonymous"></script>
